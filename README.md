@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Giovane</h1>
-<h3 align="center">Desenvolvedor Full Stack apaixonado do Brasil</h3>
+<h3 align="center">Desenvolvedor Java </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seu-username&label=Visualizações&color=0e75b6&style=flat" alt="seu-username" />
@@ -22,10 +22,10 @@
 <!-- Conecte-se comigo -->
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/giovanesoftwareengineer/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:giovaneoliveira345@gmail.com">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
