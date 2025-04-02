@@ -13,12 +13,6 @@
   💬 Pergunte-me sobre JavaScript, Java, Angular e Node.js
 </p>
 
-<!-- Estatísticas GitHub -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <!-- Conecte-se comigo -->
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -47,8 +41,3 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
 </p>
-
-<!-- Snake animation -->
-<div align="center">
-  <img alt="Snake animation" src="https://github.com/seu-username/seu-username/blob/output/github-contribution-grid-snake.svg">
-</div>
