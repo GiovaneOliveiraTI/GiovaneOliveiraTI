@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Giovane</h1>
+<h1 align="center">Olá, Eu sou Giovane</h1>
 <h3 align="center">Desenvolvedor Java </h3>
 
 <p align="center">
